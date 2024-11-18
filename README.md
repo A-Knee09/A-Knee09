@@ -2,7 +2,7 @@
 Hey there , I am Anirudh you can also call me A-knee. I know C++ , C and python. Also some cybersec tools like wireshark , nmap , bettercap and hydra
 
 ```yml
-langs: ts/py/go/rs
+langs: py/c++/c
 ```
 
 <div align="center">
