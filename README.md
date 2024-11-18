@@ -1,6 +1,17 @@
-# 💫 About Me:
-Hey there , I am Anirudh you can also call me A-knee. I am currently learning C++ and Java.<br><br>I have experience in frontend design and have worked on HTML5, CSS, Tailwind , React.<br><br>
+# About Me:
+Hey there , I am Anirudh you can also call me A-knee. I know C++ , C and python. Also some cybersec tools like wireshark , nmap , bettercap and hydra
 
+```yml
+langs: ts/py/go/rs
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudh.sak09) 
