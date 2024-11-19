@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 My website is available at **[0xdedinfosec.github.io](https://ani-portfolio-git-main-a-knee09s-projects.vercel.app/)**
+- 👨‍💻 My **[Portfolio](https://ani-portfolio-git-main-a-knee09s-projects.vercel.app/)** 
 
 - ⚡ Fun fact **I play games very much**
 
@@ -59,15 +59,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://t.me/Dedinfosec"><img src="https://img.icons8.com/doodle/50/000000/telegram-app.png"/></a>
-<a href = "https://twitter.com/0xdedinfosec"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
-<a href = "https://github.com/0xdedinfosec"><img src="https://img.icons8.com/metro/52/000000/github.png"/></a>
-<a href = "https://www.facebook.com/dedsecinfoServices/"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
-
-</p>
 
 
 
