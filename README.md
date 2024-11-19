@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ani (A knee)</h1>
 <h3 align="center">Intergrated Computer Applications Student| Cybersecurity Enthusiast </h3>
-<div style="text-align: center;">
-  <img src="![Animation (0)](https://github.com/user-attachments/assets/e2b3289d-4046-4a12-a2c0-4194ecc74e05)
-" alt="Your GIF description">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e2b3289d-4046-4a12-a2c0-4194ecc74e05" alt="Your GIF description">
 </div>
-
 
 ## 🙋‍♂️ About Me
 
