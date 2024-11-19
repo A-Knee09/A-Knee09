@@ -1,11 +1,10 @@
-![Animation (0)](https://github.com/user-attachments/assets/e885ba11-fc85-4ce5-9ad1-1d6e63581675)
-
-
-
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ani (A knee)</h1>
 <h3 align="center">Intergrated Computer Applications Student| Cybersecurity Enthusiast </h3>
+<div align = "center">
+![Animation (0)](https://github.com/user-attachments/assets/e885ba11-fc85-4ce5-9ad1-1d6e63581675)
+</div>
 
 
 ## 🙋‍♂️ About Me
