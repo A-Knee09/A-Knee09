@@ -1,4 +1,5 @@
-![RDT_20241006_0240486286108680769108574](https://github.com/user-attachments/assets/e49fd2da-0ca9-49cb-909f-11751fa82027)
+![RDT_20241006_0240486286108680769108574](https://github.com/user-attachments/assets/703c550a-b95e-4a5d-8bf1-afc9097b0183)
+
 
 
 # About Me:
