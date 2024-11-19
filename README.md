@@ -48,7 +48,13 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Dedinfosec's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xdedinfosec&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br/>
 <br/>
@@ -67,13 +73,6 @@
 
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/cxinu/cxinu/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 
 
