@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently studying in a **University**
+- 🔭 I'm currently studying **Computer Science**
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 My **[Portfolio](https://ani-portfolio-git-main-a-knee09s-projects.vercel.app/)** 
+- 👨‍💻 My **[Portfolio](nirudh-portfolio-five.vercel.app)** 
 
 - ⚡ Fun fact **I play games very much**
 
