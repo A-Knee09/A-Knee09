@@ -4,7 +4,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![wallhaven-1p73gw](https://github.com/user-attachments/assets/8185e5f6-4a2c-4fe1-b585-b9728acf52d2)
+
 
 ###
 
