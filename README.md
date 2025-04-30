@@ -1,9 +1,5 @@
-<img align="center" height="auto" src="https://github.com/user-attachments/assets/16e67c4c-87b5-48b4-99fa-ac316e2bdae0"  />
-
-
-
-
 <h2 align="left">Anirudh Saksena<br><br>Integrated Computer Applications Student | Aspiring DevOps Profesional</h2>
+<img align="center" height="auto" src="https://github.com/user-attachments/assets/16e67c4c-87b5-48b4-99fa-ac316e2bdae0"  />
 
 ###
 
