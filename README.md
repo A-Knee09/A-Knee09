@@ -36,7 +36,7 @@
   </a>
 </div>
 
-<p>I'm a passionate and dedicated Computer Science student with a strong interest in Python development, systems programming, and building real-world tech solutions. I enjoy working on projects that blend automation, infrastructure, and security, and I'm currently focused on becoming proficient in backend development and DevOps.</p>
+<p align = "left" >I'm a passionate and dedicated Computer Science student with a strong interest in Python development, systems programming, and building real-world tech solutions. I enjoy working on projects that blend automation, infrastructure, and security, and I'm currently focused on becoming proficient in backend development and DevOps.</p>
 
 ### Some highlights of what I do:
 
