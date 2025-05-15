@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/4ebd0327-cba7-4a61-96e9-29d028cf351d"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/67deabda-6393-4132-b98f-27f79d20efb2"  />
 
 ###
 
@@ -51,8 +51,8 @@
 - *Dedicated to consistent learning and building impactful, scalable solutions*
 
 I'm always open to collaborating on interesting projects or contributing to open-source.
-
-![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=A-Knee09&show_icons=true)
+<br>
+![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=A-Knee09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Knee09&theme=github_dark)
 
