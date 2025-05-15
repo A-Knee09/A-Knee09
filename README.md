@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<br>
 <p align = "left" >I'm a passionate and dedicated Computer Science student with a strong interest in Python development, systems programming, and building real-world tech solutions. I enjoy working on projects that blend automation, infrastructure, and security, and I'm currently focused on becoming proficient in backend development and DevOps.</p>
 
 ### Some highlights of what I do:
