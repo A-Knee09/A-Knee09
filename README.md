@@ -36,21 +36,6 @@
   </a>
 </div>
 <br>
-<p align = "left" >I'm a passionate and dedicated Computer Science student with a strong interest in Python development, systems programming, and building real-world tech solutions. I enjoy working on projects that blend automation, infrastructure, and security, and I'm currently focused on becoming proficient in backend development and DevOps.</p>
-
-### Some highlights of what I do:
-
-- *Learning data structures, algorithms, and core computer science concepts*
-
-- *Building real-world tools in Python, including GUI and cloud automation projects*
-
-- *Exploring DevOps practices, serverless architectures, and infrastructure on AWS*
-
-- *Developing a GUI-based network analysis tool as part of my final year project*
-
-- *Dedicated to consistent learning and building impactful, scalable solutions*
-
-I'm always open to collaborating on interesting projects or contributing to open-source.
 <br>
 ![Anirudh's github stats](https://github-readme-stats.vercel.app/api?username=A-Knee09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
