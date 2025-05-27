@@ -1,4 +1,4 @@
-<h2 align="left">Anirudh Saksena<br><br>Integrated Computer Applications Student | Aspiring DevOps Profesional</h2>
+<h2 align="left">Anirudh Saksena<br><br>Integrated Computer Applications Student | Aspiring Python Profesional</h2>
 
 ###
 
