@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" width="255" height="471" src="https://github.com/user-attachments/assets/6c567dac-31df-4c04-bbe0-b324609f47b1"/>
+<img align="right" width="125" height="171" src="https://github.com/user-attachments/assets/6c567dac-31df-4c04-bbe0-b324609f47b1"/>
 
 ###
 
@@ -38,7 +38,6 @@
 <br>
 <br>
 
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Knee09&show_icons=true&bg_color=00000000)
 <br>
 
 
