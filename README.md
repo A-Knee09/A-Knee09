@@ -39,6 +39,6 @@
 </div>
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Knee09&theme=date_night" alt="Github Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Knee09&theme=buefy" alt="Github Stats" />
 
 
