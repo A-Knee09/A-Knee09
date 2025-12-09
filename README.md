@@ -2,7 +2,7 @@
 
 ###
 
-<!-- <img align="right" width="255" height="471" src="https://github.com/user-attachments/assets/6c567dac-31df-4c04-bbe0-b324609f47b1"/> -->
+<img align="right" width="255" height="471" src="https://github.com/user-attachments/assets/6c567dac-31df-4c04-bbe0-b324609f47b1"/> 
 
 ###
 
@@ -34,8 +34,11 @@
   <a href="https://www.linkedin.com/in/anirudh-saksena-b41607258/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <br>
+  
 </div>
 <br>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Knee09&theme=date_night" alt="Github Stats" />
 
 
