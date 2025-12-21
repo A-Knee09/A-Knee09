@@ -38,7 +38,7 @@
   
 </div>
 <br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Knee09&theme=buefy" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=A-Knee09&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Knee09&theme=buefy" alt="Github Stats" /> -->
 
 
