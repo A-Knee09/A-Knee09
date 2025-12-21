@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" width="255" height="471" src="https://github.com/user-attachments/assets/6c567dac-31df-4c04-bbe0-b324609f47b1"/> 
+<img align="right" width="252" height="465" src="https://github.com/user-attachments/assets/6c567dac-31df-4c04-bbe0-b324609f47b1"/> 
 
 ###
 
@@ -38,7 +38,5 @@
   
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=A-Knee09&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-Knee09&theme=buefy" alt="Github Stats" /> -->
-
+<img src="https://github-readme-stats.vercel.app/api?username=A-Knee09&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
 
