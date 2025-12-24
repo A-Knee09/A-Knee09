@@ -38,6 +38,6 @@
   
 </div>
 <br>
-<img src="https://gh-readme-profile.vercel.app/api?username=A-Knee09&theme=buefy&hide=issues&title_color=2a926f&icon_color=253334&stroke_color=fffdfd" alt="Github Stats" />
+<img src="https://gh-readme-profile.vercel.app/api?username=A-Knee09&theme=buefy&hide=issues&border_radius=2&hide_stroke=true&hide_border=true&title_color=2a926f&icon_color=253334&stroke_color=fffdfd" alt="Github Stats" />
 
 <p><b>Art by <a href= "https://www.instagram.com/sinonymous7/">Sinonymouse7 </a></b></p>
