@@ -40,3 +40,4 @@
 <br>
 <img src="https://gh-readme-profile.vercel.app/api?username=A-Knee09&theme=buefy&hide=issues&border_radius=2&hide_stroke=true&hide_border=true&title_color=b8816d&icon_color=4d5373" alt="Github Stats" />
 
+<p>Art by <a href= "https://www.instagram.com/sinonymous7/">Sinonymouse7 </a></p>
