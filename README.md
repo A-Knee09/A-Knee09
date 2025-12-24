@@ -38,5 +38,5 @@
   
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=A-Knee09&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
+<img src="https://gh-readme-profile.vercel.app/api?username=A-Knee09&theme=buefy&hide=issues&border_radius=2&hide_stroke=true&hide_border=true&title_color=b8816d&icon_color=4d5373" alt="Github Stats" />
 
