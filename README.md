@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" width="252" height="465" src="https://github.com/user-attachments/assets/1cbbf695-22d0-41cb-9bbf-38853c9e2df6"/> 
+<img align="right" width="302" height="515" src="https://github.com/user-attachments/assets/1cbbf695-22d0-41cb-9bbf-38853c9e2df6"/> 
 
 ###
 
@@ -31,12 +31,19 @@
 
   
   <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
-  <img src="https://img.shields.io/badge/C-eeeced?style=for-the-badge&logo=c&logoColor=grey" height="30" alt="c logo"  />
-  <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" height="30" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/Pandas-8d6dab?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Numpy-5ba692?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Streamlit-a30d08?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="streamlit logo"  />
+  <img src="https://img.shields.io/badge/Jupyter-e37332?style=for-the-badge&logo=jupyter&logoColor=white" height="30" alt="streamlit logo"  />
+  <br>
+  <img src="https://img.shields.io/badge/Matplotlib-ad9a87?style=for-the-badge&logo=matplotlib&logoColor=white" height="30" alt="matplot logo"  />
+  <img src="https://img.shields.io/badge/Seaborn-607877?style=for-the-badge&logo=seaborn&logoColor=white" height="30" alt="seaborn logo"  />
+  <img src="https://img.shields.io/badge/Plotly-c96f8a?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="plotly logo"  />
+  <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Neovim-869f6f?style=for-the-badge&logo=neovim&logoColor=white" height="30" alt="nvim logo"  />
-  <img src="https://img.shields.io/badge/Bash-DB7414?style=for-the-badge&logo=gnubash&logoColor=black" height="30" alt="bash logo"  />
-  <img src="https://img.shields.io/badge/Git-E02838?style=for-the-badge&logo=git&logoColor=white" height="30" alt="bash logo"  />
+  <img src="https://img.shields.io/badge/Bash-2e2d2e?style=for-the-badge&logo=gnubash&logoColor=white" height="30" alt="bash logo"  />
+  <img src="https://img.shields.io/badge/Git-f5f0f1?style=for-the-badge&logo=git&logoColor=red" height="30" alt="git logo"  />
   
 </div>
 
