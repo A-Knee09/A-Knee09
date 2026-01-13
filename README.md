@@ -35,11 +35,9 @@
   <img src="https://img.shields.io/badge/Numpy-5ba692?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="python logo"  />
   <img src="https://img.shields.io/badge/Streamlit-a30d08?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="streamlit logo"  />
   <img src="https://img.shields.io/badge/Jupyter-e37332?style=for-the-badge&logo=jupyter&logoColor=white" height="30" alt="streamlit logo"  />
-  <br>
   <img src="https://img.shields.io/badge/Matplotlib-ad9a87?style=for-the-badge&logo=matplotlib&logoColor=white" height="30" alt="matplot logo"  />
   <img src="https://img.shields.io/badge/Seaborn-607877?style=for-the-badge&logo=seaborn&logoColor=white" height="30" alt="seaborn logo"  />
   <img src="https://img.shields.io/badge/Plotly-c96f8a?style=for-the-badge&logo=plotly&logoColor=white" height="30" alt="plotly logo"  />
-  <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Neovim-869f6f?style=for-the-badge&logo=neovim&logoColor=white" height="30" alt="nvim logo"  />
   <img src="https://img.shields.io/badge/Bash-2e2d2e?style=for-the-badge&logo=gnubash&logoColor=white" height="30" alt="bash logo"  />
@@ -53,7 +51,7 @@
   <a href="https://www.linkedin.com/in/anirudh-saksena-b41607258/" target="_blank">
     <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
     <img src="https://img.shields.io/badge/-LinkedIn-4671cf?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-saksena-b41607258/" height="30" alt="bash logo"  />
-
+    <br>
   </a>
 
 </div>
