@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c logo"  />
   <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" height="30" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="30" alt="nvim logo"  />
+  <img src="https://img.shields.io/badge/Neovim-869f6f?style=for-the-badge&logo=neovim&logoColor=white" height="30" alt="nvim logo"  />
   <img src="https://img.shields.io/badge/Bash-DB7414?style=for-the-badge&logo=gnubash&logoColor=black" height="30" alt="bash logo"  />
   <img src="https://img.shields.io/badge/Git-E02838?style=for-the-badge&logo=git&logoColor=white" height="30" alt="bash logo"  />
   
