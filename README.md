@@ -31,7 +31,7 @@
 
   
   <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-eeeced?style=for-the-badge&logo=c&logoColor=grey" height="30" alt="c logo"  />
   <img src="https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" height="30" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
   <img src="https://img.shields.io/badge/Neovim-869f6f?style=for-the-badge&logo=neovim&logoColor=white" height="30" alt="nvim logo"  />
