@@ -7,7 +7,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-135d85?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Go-3572A5?style=for-the-badge&logo=go&logoColor=white" height="30" alt="python logo"  />
   <img src="https://img.shields.io/badge/Pandas-8d6dab?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="pandas logo"  />
   <img src="https://img.shields.io/badge/Numpy-5ba692?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="numpy logo"  />
   <img src="https://img.shields.io/badge/Streamlit-a30d08?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="streamlit logo"  />
