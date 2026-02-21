@@ -30,7 +30,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-4671cf?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-saksena-b41607258/" height="30" alt="bash logo"  />
     <br>
   </a>
-  <img src="https://gh-readme-profile.vercel.app/api?username=A-Knee09&theme=buefy&hide=issues&border_radius=2&hide_stroke=true&hide_border=true&title_color=2a926f&icon_color=253334&stroke_color=fffdfd" alt="Github Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&theme=swift">
+
 
   <p><b>Art by <a href= "https://www.instagram.com/sinonymous7/">Sinonymouse7 </a></b></p>
 </div>
