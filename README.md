@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" width="270" height="485" src="https://github.com/user-attachments/assets/1cbbf695-22d0-41cb-9bbf-38853c9e2df6"/> 
+<img align="right" width="260" height="465" src="https://github.com/user-attachments/assets/a348bf5d-4f01-4201-957e-8c2aba539231"/> 
 
 ###
 
@@ -26,12 +26,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anirudh-saksena-b41607258/" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
     <img src="https://img.shields.io/badge/-LinkedIn-4671cf?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-saksena-b41607258/" height="30" alt="bash logo"  />
     <br>
   </a>
   <img src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&theme=swift">
 
-
-  <p><b>Art by <a href= "https://www.instagram.com/sinonymous7/">Sinonymouse7 </a></b></p>
 </div>
