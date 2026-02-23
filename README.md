@@ -29,6 +29,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-4671cf?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudh-saksena-b41607258/" height="30" alt="bash logo" />
     <br>
   </a>
-  <img src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&theme=buefy">
+  <img src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&theme=graywhite">
 
 </div>
