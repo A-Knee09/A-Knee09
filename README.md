@@ -1,11 +1,5 @@
 <h2 align="left">Anirudh Saksena<br><br>Integrated Computer Applications Student | Aspiring Python Profesional</h2>
 
-###
-
-<img width="215" height="320" alt="asa-notif" src="https://github.com/user-attachments/assets/c9b97a3a-46ac-40c4-9cda-baed7ef6f58e" align = "right"/>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-135d85?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
   <img src="https://img.shields.io/badge/Go-3572A5?style=for-the-badge&logo=go&logoColor=white" height="30" alt="python logo"  />
