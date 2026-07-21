@@ -1,8 +1,5 @@
 <h2 align="left">Anirudh Saksena<br><br>Integrated Computer Applications Student | Aspiring Python Profesional</h2>
 
-<!-- <img width="270" height="480" alt="wallhaven-xlyd13" src="https://github.com/user-attachments/assets/837c7afe-e653-49d7-ab69-c405057a831a"  align = "right"/> -->
-<img align = "right" width="150" height="360" alt="wallhaven-rqjymj" src="https://github.com/user-attachments/assets/fe1a93f8-5bbb-4293-9d7e-ba79ab56818a" />
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-135d85?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
   <img src="https://img.shields.io/badge/Go-3572A5?style=for-the-badge&logo=go&logoColor=white" height="30" alt="python logo"  />
