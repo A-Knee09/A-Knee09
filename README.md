@@ -1,4 +1,4 @@
-<h2 align="left">Anirudh Saksena<br><br>Computer Science Grad | Python Profesional</h2>
+<h2 align="left">Anirudh Saksena<br><br>Computer Science Grad | Python Profesional | TUI & Retro Tech Enthusiast</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-135d85?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo"  />
