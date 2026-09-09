@@ -4,10 +4,10 @@
   width="271"
   alt="Profile"
   src="https://github.com/user-attachments/assets/efe32cbc-d77b-4356-863f-4a4cf1945209"
-  align="right"
+  align="left"
 />
 
-<div align="left">
+<div align="right">
   <img src="https://img.shields.io/badge/Python-135d85?style=for-the-badge&logo=python&logoColor=white" height="25" alt="python logo" />
   <img src="https://img.shields.io/badge/Go-3572A5?style=for-the-badge&logo=go&logoColor=white" height="25" alt="go logo" />
   <img src="https://img.shields.io/badge/Pandas-8d6dab?style=for-the-badge&logo=pandas&logoColor=white" height="25" alt="pandas logo" />
