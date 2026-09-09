@@ -38,5 +38,5 @@
   />
   
 </div>
-<br>
+
 <h4>Art by <a href = "https://www.instagram.com/sinonymous7/">@Sinonymous</a></h4>
