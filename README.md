@@ -1,7 +1,7 @@
 <h2 align="left">Anirudh Saksena<br><br>Computer Science Grad | Python Dev & Professional Larper</h2>
 
 <img
-  width="276"
+  width="273"
   alt="Profile"
   src="https://github.com/user-attachments/assets/efe32cbc-d77b-4356-863f-4a4cf1945209"
   align="right"
@@ -39,7 +39,7 @@
 /> -->
 
 <img
-  src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&bg_color=F7F1E8&title_color=4E5930&text_color=4E231B&icon_color=Ef7828"
+  src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&bg_color=F7F1E8&title_color=4E5930&text_color=4E231B&icon_color=Ef7828&border_radius=0"
   alt="GitHub stats"
 />
 
