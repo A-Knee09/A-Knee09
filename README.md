@@ -32,11 +32,17 @@
 
   <br>
 <br>
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&theme=graywhite"
-    alt="GitHub stats"
-  />
-  
+
+<!-- <img
+  src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&bg_color=F7F1E8&title_color=700801&text_color=1E001C&icon_color=556036"
+  alt="GitHub stats"
+/> -->
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=A-Knee09&custom_title=Nerd%20Stats&show_icons=true&include_all_commits=true&bg_color=F7F1E8&title_color=4E5930&text_color=4E231B&icon_color=Ef7828"
+  alt="GitHub stats"
+/>
+
 </div>
 
 <h4>Art by <a href = "https://www.instagram.com/sinonymous7/">@Sinonymous</a></h4>
