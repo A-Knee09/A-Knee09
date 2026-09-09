@@ -8,19 +8,23 @@
 />
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-135d85?style=for-the-badge&logo=python&logoColor=white" height="25" alt="python logo" />
-  <img src="https://img.shields.io/badge/Go-3572A5?style=for-the-badge&logo=go&logoColor=white" height="25" alt="go logo" />
-  <img src="https://img.shields.io/badge/Pandas-8d6dab?style=for-the-badge&logo=pandas&logoColor=white" height="25" alt="pandas logo" />
-  <img src="https://img.shields.io/badge/Numpy-5ba692?style=for-the-badge&logo=numpy&logoColor=white" height="25" alt="numpy logo" />
-  <img src="https://img.shields.io/badge/Streamlit-a30d08?style=for-the-badge&logo=streamlit&logoColor=white" height="25" alt="streamlit logo" />
-  <img src="https://img.shields.io/badge/Jupyter-e37332?style=for-the-badge&logo=jupyter&logoColor=white" height="25" alt="jupyter logo" />
-  <img src="https://img.shields.io/badge/Matplotlib-ad9a87?style=for-the-badge&logo=matplotlib&logoColor=white" height="25" alt="matplotlib logo" />
-  <img src="https://img.shields.io/badge/Seaborn-607877?style=for-the-badge&logo=seaborn&logoColor=white" height="25" alt="seaborn logo" />
-  <img src="https://img.shields.io/badge/Plotly-c96f8a?style=for-the-badge&logo=plotly&logoColor=white" height="25" alt="plotly logo" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25" alt="linux logo" />
-  <img src="https://img.shields.io/badge/Neovim-869f6f?style=for-the-badge&logo=neovim&logoColor=white" height="25" alt="neovim logo" />
-  <img src="https://img.shields.io/badge/Bash-2e2d2e?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="bash logo" />
-  <img src="https://img.shields.io/badge/Git-f5f0f1?style=for-the-badge&logo=git&logoColor=red" height="25" alt="git logo" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="python logo" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="25" alt="go logo" />
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" height="25" alt="pandas logo" />
+<img src="https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white" height="25" alt="numpy logo" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25" alt="fastapi logo" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="25" alt="pydantic logo" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25" alt="streamlit logo" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25" alt="jupyter logo" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="25" alt="matplotlib logo" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" height="25" alt="seaborn logo" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="25" alt="plotly logo" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25" alt="postgresql logo" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25" alt="linux logo" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" height="25" alt="neovim logo" />
+<img src="https://img.shields.io/badge/Bash-2e2d2e?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="bash logo" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git logo" />
+
 <br><br>
   <a href="https://www.linkedin.com/in/anirudh-saksena-b41607258/" target="_blank">
     <img
