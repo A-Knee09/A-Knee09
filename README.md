@@ -1,7 +1,7 @@
 <h2 align="left">Anirudh Saksena<br><br>Computer Science Grad | Python Dev & Professional Larper</h2>
 
 <img
-  width="271"
+  width="321"
   alt="Profile"
   src="https://github.com/user-attachments/assets/efe32cbc-d77b-4356-863f-4a4cf1945209"
   align="right"
