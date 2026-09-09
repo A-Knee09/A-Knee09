@@ -1,7 +1,7 @@
 <h2 align="left">Anirudh Saksena<br><br>Computer Science Grad | Python Dev & Professional Larper</h2>
 
 <img
-  width="321"
+  width="311"
   alt="Profile"
   src="https://github.com/user-attachments/assets/efe32cbc-d77b-4356-863f-4a4cf1945209"
   align="right"
@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/Bash-2e2d2e?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="bash logo" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git logo" />
 
-<br><br>
+<br>
+<br>
   <a href="https://www.linkedin.com/in/anirudh-saksena-b41607258/" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-4671cf?style=for-the-badge&logo=Linkedin&logoColor=white"
